@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "yarn workspace example develop",
+    "build": "yarn workspace example build"
+  },
+  "workspaces": [
+    "packages/*",
+    "example"
+  ]
+}
