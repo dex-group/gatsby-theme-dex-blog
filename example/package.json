@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@dexgroup/gatsby-theme-blog": "*",
-    "gatsby": "^2.17.4",
+    "gatsby": "^4.25.7",
     "react": "^16.11.0",
     "react-dom": "^16.11.0"
   }
